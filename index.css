@@ -12,3 +12,13 @@ html, body{
 	justify-content: center;
 	align-items: center;
 }
+
+:right{
+	display: flex;
+	flex-direction: column;
+}
+
+:buttons{
+	display: flex;
+	flex-direction: row;
+}
