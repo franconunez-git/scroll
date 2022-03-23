@@ -13,12 +13,12 @@ html, body{
 	align-items: center;
 }
 
-:right{
+.left{
 	display: flex;
 	flex-direction: column;
 }
 
-:buttons{
+.bt{
 	display: flex;
 	flex-direction: row;
 }
