@@ -13,6 +13,11 @@ html, body{
 	align-items: center;
 }
 
+.container{
+	width: 80%;
+	height: 70%;
+}
+
 .left{
 	display: flex;
 	flex-direction: column;
@@ -21,4 +26,8 @@ html, body{
 .bt{
 	display: flex;
 	flex-direction: row;
+}
+
+.section{
+	background-color: grey;
 }
