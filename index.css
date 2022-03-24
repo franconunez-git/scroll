@@ -33,12 +33,19 @@
 }
 
 .section{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
 	height: 40%;
 	background-color: grey; 
 }
 
 .img{
-	background-image: url(https://pluumber.com/wp-content/uploads/2020/12/dexus-office-space.jpg);
+	margin-right: 5%;
+	align-self: center;
+	height: 80%;
+	width: 40%;
+	background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/VAN_CAT.png/800px-VAN_CAT.png');
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;			
