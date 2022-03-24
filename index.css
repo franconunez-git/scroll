@@ -16,6 +16,7 @@ body{
 	display: flex;
 	justify-content: center;
 	align-items: center;
+	background-color: rgb(172, 172, 172);
 }
 
 .container{
@@ -72,7 +73,8 @@ body{
 	flex-direction: row;
 	justify-content: space-between;
 	height: 40%;
-	background-color: rgb(172, 172, 172); 
+	background-color: white;
+	border-radius: 20px;
 }
 
 .img{
